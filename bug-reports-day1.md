@@ -15,9 +15,9 @@
 
 **Expected result:** Вкладка переведена на русский язык
 
-**Severity:** Minor
+**Severity:** Trivial
 
-**Priority:** Medium
+**Priority:** Low
 
 **Screenshot:** './bug1.png'
 ##
@@ -38,7 +38,7 @@
 
 **Severity:** Minor
 
-**Priority:** Low
+**Priority:** Medium
 
 **Screenshot:** './bug2(1).png' './bug2(2).png'
 ##
@@ -56,7 +56,7 @@
 
 **Expected result:** текст полностью виден, есть перенос строк
 
-**Severity:** Trival
+**Severity:** Trivial
 
 **Priority:** Low
 
