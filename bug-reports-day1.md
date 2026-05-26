@@ -40,7 +40,7 @@
 
 **Priority:** Low
 
-**Screenshot:** './bug2(1)' './bug2(2)'
+**Screenshot:** './bug2(1).png' './bug2(2).png'
 ##
 
 ## Bug #3
@@ -60,5 +60,5 @@
 
 **Priority:** Low
 
-**Screenshot:** './bug3'
+**Screenshot:** './bug3.png'
 ##
